@@ -192,7 +192,7 @@ ASSETS;
 	 $bodyString = searchBody($whitePage);
 
 	 if ($bodyString == false) {
-		 include 'index2.html';
+		 include 'index2.php';
 		  exit;
 	 }
 
